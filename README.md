@@ -1,2 +1,2 @@
-# DIO-Forma-o-PHP-Experience
-DIO Formação PHP Experience
+# DIO Formacao PHP
+Repositório com o material e conteúdos da formação de PHP da DIO
